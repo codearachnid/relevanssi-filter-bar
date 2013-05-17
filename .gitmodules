@@ -1,0 +1,3 @@
+[submodule "github-update"]
+	path = github-update
+	url = git://github.com/jkudish/WordPress-GitHub-Plugin-Updater.git
